@@ -46,6 +46,7 @@ template {
 
 a {
     background-color: transparent;
+  
 }
 
 a:active,
@@ -2753,7 +2754,7 @@ a {
     -webkit-flex: 0 0 auto;
     -ms-flex: 0 0 auto;
     flex: 0 0 auto;
-    border: 2px solid #f06500;
+    border: 2px solid #CD1818;
     border-radius: 50%;
 }
 
@@ -3057,7 +3058,7 @@ a {
 }
 
 .text-span {
-    color: #f06500;
+    color: #CD1818;
 }
 
 .howto-content {
@@ -3098,11 +3099,11 @@ a {
 }
 
 .html-embed {
-    color: #f06500;
+    color: #CD1818;
 }
 
 .html-embed.no-fill {
-    color: transparent;
+    color: #CD1818;
 }
 
 .main-title {
@@ -3412,6 +3413,8 @@ a {
     color: #fff;
 }
 
+/*changes*/
+
 .nav.hide {
     position: -webkit-sticky;
     position: sticky;
@@ -3420,7 +3423,7 @@ a {
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
-    background-color: #f06500;
+    background-color: #CD1818;
 }
 
 .roadmap-q {
@@ -3430,7 +3433,7 @@ a {
 }
 
 .body {
-    background-color: #0a0a18;
+    background-color: #000000;
     font-family: Poppins, sans-serif;
     color: #fff;
 }
@@ -3699,7 +3702,7 @@ a {
 }
 
 .text-span-2 {
-    color: #f06500;
+    color: #CD1818;
 }
 
 .announcement-p {
