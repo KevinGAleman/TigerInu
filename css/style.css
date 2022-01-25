@@ -2537,6 +2537,23 @@ a {
     align-items: center;
 }
 
+.container.poocoincontainer {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    padding-bottom: 40px;
+}
+
 .container.hero-cont {
     display: -webkit-box;
     display: -webkit-flex;
